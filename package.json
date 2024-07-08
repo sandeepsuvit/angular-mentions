@@ -1,6 +1,7 @@
 {
-  "name": "angular-mentions",
-  "version": "0.0.0",
+  "name": "@dotedlabs/angular-mentions",
+  "version": "1.0.0",
+  "repository": "https://github.com/dotedlabs/angular-mentions",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,7 +10,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^17.0.8",
     "@angular/common": "^17.0.8",
