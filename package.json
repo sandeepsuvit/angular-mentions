@@ -2,6 +2,7 @@
   "name": "@dotedlabs/angular-mentions",
   "version": "1.0.0",
   "repository": "https://github.com/dotedlabs/angular-mentions",
+  "private": false,
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
